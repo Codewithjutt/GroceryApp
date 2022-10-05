@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Codewithjutt/GroceryApp.git/static/css/main.6ed62891.chunk.css",
+    "main.js": "/Codewithjutt/GroceryApp.git/static/js/main.cee0aaab.chunk.js",
+    "main.js.map": "/Codewithjutt/GroceryApp.git/static/js/main.cee0aaab.chunk.js.map",
+    "runtime-main.js": "/Codewithjutt/GroceryApp.git/static/js/runtime-main.3b87329b.js",
+    "runtime-main.js.map": "/Codewithjutt/GroceryApp.git/static/js/runtime-main.3b87329b.js.map",
+    "static/js/2.9df1a679.chunk.js": "/Codewithjutt/GroceryApp.git/static/js/2.9df1a679.chunk.js",
+    "static/js/2.9df1a679.chunk.js.map": "/Codewithjutt/GroceryApp.git/static/js/2.9df1a679.chunk.js.map",
+    "index.html": "/Codewithjutt/GroceryApp.git/index.html",
+    "precache-manifest.4b08a7b7502a6e41b9f358ddd4adc011.js": "/Codewithjutt/GroceryApp.git/precache-manifest.4b08a7b7502a6e41b9f358ddd4adc011.js",
+    "service-worker.js": "/Codewithjutt/GroceryApp.git/service-worker.js",
+    "static/css/main.6ed62891.chunk.css.map": "/Codewithjutt/GroceryApp.git/static/css/main.6ed62891.chunk.css.map",
+    "static/js/2.9df1a679.chunk.js.LICENSE.txt": "/Codewithjutt/GroceryApp.git/static/js/2.9df1a679.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b87329b.js",
+    "static/js/2.9df1a679.chunk.js",
+    "static/css/main.6ed62891.chunk.css",
+    "static/js/main.cee0aaab.chunk.js"
+  ]
+}
